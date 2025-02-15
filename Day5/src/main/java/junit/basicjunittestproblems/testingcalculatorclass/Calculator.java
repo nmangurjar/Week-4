@@ -1,4 +1,4 @@
-package junit.basicjunittestproblems.testingcalculatorclass;
+package junit.basicjunit.testingcalculatorclass;
 
 public class Calculator {
     public int add(int a, int b){

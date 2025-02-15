@@ -1,4 +1,4 @@
-package junit.basicjunittestproblems.testingstringutility;
+package junit.basicjunit.testingstringutility;
 
 public class StringUtils {
     public String reverse(String str){

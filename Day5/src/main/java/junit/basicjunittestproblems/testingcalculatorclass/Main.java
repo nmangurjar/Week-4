@@ -1,4 +1,4 @@
-package junit.basicjunittestproblems.testingcalculatorclass;
+package junit.basicjunit.testingcalculatorclass;
 
 public class Main {
     public static void main(String[] args) {

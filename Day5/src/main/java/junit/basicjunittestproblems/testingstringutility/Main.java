@@ -1,4 +1,4 @@
-package junit.basicjunittestproblems.testingstringutility;
+package junit.basicjunit.testingstringutility;
 
 public class Main {
     public static void main(String[] args) {
